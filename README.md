@@ -1,4 +1,4 @@
-# Compression CLI
+# Compression CLI (NodeJS)
 
 *Compression cli tool main aim is assist you with compress your file or folder(files) in order to squeeze size of files.*
 
